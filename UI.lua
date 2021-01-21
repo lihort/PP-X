@@ -173,9 +173,9 @@ function DarkLib:Window()
 	Title.Position = UDim2.new(0.42778793, 0, 0.041837737, 0)
 	Title.Size = UDim2.new(0, 78, 0, 30)
 	Title.Font = Enum.Font.Gotham
-	Title.Text = "PP X"
+	Title.Text = "PP X | v1.1"
 	Title.TextColor3 = Color3.fromRGB(255, 0, 0)
-	Title.TextSize = 40.000
+	Title.TextSize = 30.000
 
 	Containers.Name = "Containers"
 	Containers.Parent = MainFrame
