@@ -175,7 +175,7 @@ function DarkLib:Window()
 	Title.Font = Enum.Font.Gotham
 	Title.Text = "PP X"
 	Title.TextColor3 = Color3.fromRGB(255, 0, 0)
-	Title.TextSize = 20.000
+	Title.TextSize = 40.000
 
 	Containers.Name = "Containers"
 	Containers.Parent = MainFrame
