@@ -168,7 +168,7 @@ function DarkLib:Window()
 
 	Title.Name = "Title"
 	Title.Parent = MainFrame
-	Title.BackgroundColor3 = Color3.fromRGB(255,0,0)
+	Title.BackgroundColor3 = Color3.fromRGB(255,255,255)
 	Title.BackgroundTransparency = 1.000
 	Title.Position = UDim2.new(0.42778793, 0, 0.041837737, 0)
 	Title.Size = UDim2.new(0, 78, 0, 30)
